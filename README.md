@@ -9,7 +9,7 @@ Time Spent: 5 hours spent in total
     - Vulnerability types: Cross-Site Scripting 
     - Tested in version: 4.2
     - Fixed in version: 4.2.1
-  - [ ] GIF Walkthrough: 
+  - [ ] GIF Walkthrough: ![](https://github.com/jrs3ww/Week-7-Assignment-/blob/master/test1_comment.gif)
   - [ ] Steps to recreate: 
 		1. Create a comment that has the desired script contained in it. 
 		2. Then inside the '' of the script include at least 64KB of characters in the message.
@@ -22,7 +22,7 @@ Time Spent: 5 hours spent in total
     - Vulnerability types: Cross-Site Scripting 
     - Tested in version: 4.2
     - Fixed in version: 4.2.3
-  - [ ] GIF Walkthrough: 
+  - [ ] GIF Walkthrough: ![](https://github.com/jrs3ww/Week-7-Assignment-/blob/master/test2_html.gif)
   - [ ] Steps to recreate: 
 		1. Gain access to an Contributor or Author level account.
 		2. Change the text type from "Visual" to "Text".
@@ -35,7 +35,7 @@ Time Spent: 5 hours spent in total
     - Vulnerability types: Cross-Site Scripting 
     - Tested in version: 4.2
     - Fixed in version: 4.2.13
-  - [ ] GIF Walkthrough: 
+  - [ ] GIF Walkthrough: ![](https://github.com/jrs3ww/Week-7-Assignment-/blob/master/test3_mp3.gif)
   - [ ] Steps to recreate: 
 		1. Create an MP3 file that has JS inside of its Metadata
 		2. Get Admin or Editor to create a new Post or Page that has a playlist with the MP3 file contained in it. 
